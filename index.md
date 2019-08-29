@@ -149,6 +149,15 @@ CODE OF CONDUCT
 <strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
 </p>
 
+{% comment %}
+WELL BEING STATEMENT
+
+Statement approved by the Faculty Senate, to be added to syllabus. 
+{% endcomment %}
+
+<p id="wellbeing">
+<strong>Health and wellbeing statement:</strong> University students encounter setbacks from time to time. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about resources that assist with wellness and academic success at <a href="https://counseling.oregonstate.edu/reach-out-success">oregonstate.edu/ReachOut</a>. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
+ </p>
 
 {% comment %}
 ACCESSIBILITY
